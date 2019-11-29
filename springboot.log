@@ -1,0 +1,11 @@
+2019-11-22 16:21:11.842  INFO 8096 --- [main] c.h.s.SpringbootApplicationTests         : Starting SpringbootApplicationTests on DESKTOP-PCTLSO6 with PID 8096 (started by hsj in D:\idea项目)
+2019-11-22 16:21:11.843 DEBUG 8096 --- [main] c.h.s.SpringbootApplicationTests         : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-22 16:21:11.844  INFO 8096 --- [main] c.h.s.SpringbootApplicationTests         : No active profile set, falling back to default profiles: default
+2019-11-22 16:21:14.517  INFO 8096 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-22 16:21:14.994  INFO 8096 --- [main] c.h.s.SpringbootApplicationTests         : Started SpringbootApplicationTests in 4.045 seconds (JVM running for 6.42)
+2019-11-22 16:21:15.310 DEBUG 8096 --- [main] c.h.s.SpringbootApplicationTests         : 这是调试信息 
+2019-11-22 16:21:15.310 DEBUG 8096 --- [main] c.h.s.SpringbootApplicationTests         : 这是trace日志
+2019-11-22 16:21:15.310  INFO 8096 --- [main] c.h.s.SpringbootApplicationTests         : 这是info日志
+2019-11-22 16:21:15.311  WARN 8096 --- [main] c.h.s.SpringbootApplicationTests         : 这是警告日志
+2019-11-22 16:21:15.311 ERROR 8096 --- [main] c.h.s.SpringbootApplicationTests         : 这是错误日志
+2019-11-22 16:21:15.336  INFO 8096 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

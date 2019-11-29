@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.hsj.springboot.bean.Person",
+      "sourceType": "com.hsj.springboot.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.hsj.springboot.bean.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.hsj.springboot.bean.Person"
+    }
+  ],
+  "hints": []
+}
